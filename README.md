@@ -1,5 +1,5 @@
 # DS-Algo
 Implementation of data structure and algorithm
-opps
+oops
 loops
 everything u need to learn java
